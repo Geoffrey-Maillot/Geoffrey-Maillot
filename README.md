@@ -6,4 +6,4 @@ Lorem Ipsum
 
 
 #### &#128433;&#65039; my skills
-[]()
+![Logos](/img/Logos.png)
