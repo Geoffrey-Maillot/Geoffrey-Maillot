@@ -1,3 +1,4 @@
+![](https://media.giphy.com/media/citBl9yPwnUOs/source.gif)
 ### Hi there 👋 
 ### My name is Geoffrey Maillot and i'm a junior developer 
 
