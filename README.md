@@ -18,7 +18,7 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
   
   🎥 [Presentation](https://youtu.be/XliSnSJouJs?t=3988) 
 
-&#128187; [country-app](http://o-medocs.surge.sh/)
+&#128187; [O'médocs](http://o-medocs.surge.sh/)
 
 ####  &#128433;&#65039; My last mini projects
 
