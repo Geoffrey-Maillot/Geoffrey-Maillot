@@ -14,8 +14,9 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 ![Logos](/img/Logos.png)
 
 ####  &#128433;&#65039; My final project o'clock
-Techno used &#9193; Front ➧ React / Redux , Back ➧ NodeJs / Express / PostgresQl
-&#128187; [country-app](http://o-medocs.surge.sh/)
+  - Techno used : **Front** ➧ React / Redux , **Back** ➧ NodeJs / Express / PostgresQl
+
+&#128187; [country-app](http://o-medocs.surge.sh/)  [Presentation](https://youtu.be/XliSnSJouJs?t=3988) 
 
 ####  &#128433;&#65039; My last mini projects
 
