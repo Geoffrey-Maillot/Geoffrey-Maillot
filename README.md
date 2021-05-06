@@ -13,6 +13,10 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 #### &#128433;&#65039; My skills
 ![Logos](/img/Logos.png)
 
+####  &#128433;&#65039; My final project o'clock
+Techno used &#9193; Front ➧ React / Redux , Back ➧ NodeJs / Express / PostgresQl
+&#128187; [country-app](http://o-medocs.surge.sh/)
+
 ####  &#128433;&#65039; My last mini projects
 
 &#128187; [wheater-app](http://jojo-wheater-app.surge.sh/)
