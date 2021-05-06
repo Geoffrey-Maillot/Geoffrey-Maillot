@@ -13,8 +13,8 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 #### &#128433;&#65039; My skills
 ![Logos](/img/Logos.png)
 
-####  &#128433;&#65039; My final project o'clock
-  - Techno used : **Front** ➧ React / Redux , **Back** ➧ NodeJs / Express / PostgresQl
+####  &#128433;&#65039; My final project O'clock
+  - Principal techno used : **Front** ➧ React / Redux , **Back** ➧ NodeJs / Express / PostgresQl
   
   🎥 [Presentation](https://youtu.be/XliSnSJouJs?t=3988) 
 
