@@ -22,6 +22,6 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 ####  &#128433;&#65039; My last mini projects
 
-&#128187; [wheater-app](http://jojo-wheater-app.surge.sh/)
+&#128187; [wheater-app](http://jojo-wheater-app.surge.sh/) --> React / Redux
 
-&#128187; [country-app](http://jojo-country-app.surge.sh/)
+&#128187; [country-app](http://jojo-country-app.surge.sh/)  --> React / Redux
