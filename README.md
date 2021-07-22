@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/citBl9yPwnUOs/source.gif)
 ### Hi there 👋 
-### My name is Geoffrey Maillot and i'm a junior developer 
+### My name is Geoffrey Maillot and i'm a developer 
 
 #### &#128433;&#65039; About me 
 
