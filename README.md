@@ -22,8 +22,12 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 ####  &#128433;&#65039; My last mini projects
 
-&#128187; [wheater-app](http://jojo-wheater-app.surge.sh/) --> React / Redux
-
-&#128187; [country-app](http://jojo-country-app.surge.sh/)  --> React / Redux
+&#128187; [Boutique Audiophile](http://audiophile.surge.sh/)  -->  React / TypeScript / Recoil / Styled-Component -- __Mobile FIrst__
 
 &#128187; [todo-app](https://todo-app.xyz/)  -->  **Front** ➧ React / Redux , **Back** ➧ NodeJs / Express / PostgresQl / sequelize / sqitch
+
+&#128187; [wheater-app](http://jojo-wheater-app.surge.sh/) --> React / Redux / Axios / Api
+
+&#128187; [country-app](http://jojo-country-app.surge.sh/)  --> React / Redux / Axios / Api
+
+
