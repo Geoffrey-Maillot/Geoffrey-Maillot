@@ -24,7 +24,7 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 &#128187; [Boutique Audiophile](http://audiophile.surge.sh/)  -->  React / TypeScript / Recoil / Styled-Component -- __Mobile First__
 
-&#128187; [todo-app](https://todo-app.xyz/)  -->  **Front** ➧ React / Redux ,   **Back** ➧ NodeJs / Express / PostgresQl / sequelize / sqitch
+&#128187; [todo-app](https://kanbanlike.netlify.app/)  -->  **Front** ➧ React / Redux ,   **Back** ➧ NodeJs / Express / PostgresQl / sequelize / sqitch
 
 &#128187; [wheater-app](http://jojo-weather-app.surge.sh/) --> React / Recoil / Axios / Api
 
