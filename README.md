@@ -28,13 +28,13 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
   --> React / Recoil / Axios / Api
 
-&#128187; [country-app](http://jojo-country-app.surge.sh/)  --> React / Redux / Axios / Api
+   --> React / Redux / Axios / Api
 
 |Projet     |Technos front     |Technos Back       |Repo front      |Repo back    |Status      |Type projet        |Date|
 |-----------------|:------------:|:---------------:|:---------------:|:--------------:|:----------------:|:-----------------:|:--------------:|
 |&#128187; [Boutique Audiophile](http://audiophile.surge.sh/)|React / Typescript / Recoil / styled-component|🙄|[Repo Audiophile](https://github.com/Geoffrey-Maillot/Audiophile)|😁|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Audiophile&up_color=green&up_message=online&url=http%3A%2F%2Faudiophile.surge.sh%2F)|Perso|08/2021|
 |&#128187; [Todo-app](https://kanbanlike.netlify.app/)|React / Redux / Axios|NodeJs / Express / PostgresQl / Sequelize / Sqitch| [Repo KanbanLike](https://github.com/Geoffrey-Maillot/KanbanLike_front) |[Repo KanbanLike](https://github.com/Geoffrey-Maillot/KanbanLike-back)|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Kanbanlike&up_color=green&up_message=online&url=https%3A%2F%2Fkanbanlike.netlify.app%2F)|Perso|05/2021|
 |&#128187; [Weater-app](http://jojo-weather-app.surge.sh/) |React / Recoil / Axios / Api|🤩|[Repo Weather-App](https://github.com/Geoffrey-Maillot/Wheater-App)|😙|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Weather-app&up_color=green&up_message=online&url=https%3A%2F%2Fjojo-weather-app.surge.sh%2F)|Perso|09/2021|
-||||||
+|&#128187; [country-app](http://jojo-country-app.surge.sh/)|React / Redux / Axios / Api| 😎 | [Country App](http://jojo-country-app.surge.sh/) |😑| ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Country-App&up_color=green&up_message=online&url=http%3A%2F%2Fjojo-country-app.surge.sh%2F) | Perso |03/21|
 ||||||
 ||||||
