@@ -30,4 +30,4 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 &#128187; [country-app](http://jojo-country-app.surge.sh/)  --> React / Redux / Axios / Api
 
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Gallery%20Notion&up_color=green&up_message=online&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Fdown_color%3Dred%26down_message%3Doffline%26label%3Dhttps%253A%252F%252Ffrom-notion-gallery.netlify.app%252F%26up_color%3Dgreen%26up_message%3Donline%26url%3Dhttps%253A%252F%252Ffrom-notion-gallery.netlify.app%252F)
+![http://jojo-country-app.surge.sh/](https://img.shields.io/website?down_color=red&down_message=offline&label=Gallery%20Notion&up_color=green&up_message=online&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Fdown_color%3Dred%26down_message%3Doffline%26label%3Dhttps%253A%252F%252Ffrom-notion-gallery.netlify.app%252F%26up_color%3Dgreen%26up_message%3Donline%26url%3Dhttps%253A%252F%252Ffrom-notion-gallery.netlify.app%252F)
