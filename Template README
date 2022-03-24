@@ -1,0 +1,97 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+## 📖 Lesson learned
+
+- notion
+
+## 🛠 Stack
+
+- List of technos use
+
+## Environment variables
+To run this project, you will need to add the following environment variables to your .env file
+
+```js
+BEARER_TOKEN_NOTION=
+```
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+- Responsive
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+## Website
+
+[Mon site ](https://google.com)
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
+
+## Run Locally
+
+
+Clone project
+```bash
+git clone git@github.com:monProjet
+```
+
+Go to folder directory
+```bash
+cd monProjet
+```
+
+
+Install dependencies
+```bash
+# yarn
+yarn
+
+# npm
+npm run
+```
+
+Start server
+```bash
+# yarn
+yarn start
+
+# npm
+npm start
+
+# Projet run on http://localhost:1234/
+```
+
+
+
+## Script
+
+- `start`: Run server development
+- `build`: Build project in directory `dist`
+- `clean`: Delete directory `dist`
+- `clean:all`: Delete directory `dist`, `nodes_modules` and files `lock`
+
+## prerequisites
+
+- Node.js
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maillot-geoffrey-portfolio.xyz/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffrey-maillot-06a1411bb/)
+[![linkedin](https://img.shields.io/badge/github-24292F?style=for-the-badge&logo=github&logocolor=white)](https://github.com/Geoffrey-Maillot/)
