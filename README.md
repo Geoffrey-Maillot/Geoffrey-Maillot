@@ -30,9 +30,9 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 &#128187; [country-app](http://jojo-country-app.surge.sh/)  --> React / Redux / Axios / Api
 
-|Projet          |Front            |Back            |Github           |Status           |
+|Projet          |Technos front          |Technos Back            |Github           |Status           |
 |----------------|:---------------:|:--------------:|----------------:|----------------:|
-|[Boutique Audiophile](http://audiophile.surge.sh/)|React / Typescript / Recoil / styled-cpmponent|--|![Repo Audiophile](https://github.com/Geoffrey-Maillot/Audiophile)|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Audiophile&up_color=green&up_message=online&url=http%3A%2F%2Faudiophile.surge.sh%2F)|
+|[Boutique Audiophile](http://audiophile.surge.sh/)|React / Typescript / Recoil / styled-component|--|[Repo Audiophile](https://github.com/Geoffrey-Maillot/Audiophile)|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Audiophile&up_color=green&up_message=online&url=http%3A%2F%2Faudiophile.surge.sh%2F)|
 ||||||
 ||||||
 ||||||
