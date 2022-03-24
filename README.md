@@ -32,7 +32,7 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 |Projet          |Front            |Back            |Github           |Status           |
 |----------------|:---------------:|:--------------:|----------------:|----------------:|
-|[Boutique Audiophile](http://audiophile.surge.sh/)|React / Typescript / Recoil / styled-cpmponent|--|||
+|[Boutique Audiophile](http://audiophile.surge.sh/)|React / Typescript / Recoil / styled-cpmponent|--|https://github.com/Geoffrey-Maillot/Audiophile|https://img.shields.io/website?down_color=red&down_message=offline&label=Audiophile&up_color=green&up_message=online&url=http%3A%2F%2Faudiophile.surge.sh%2F|
 ||||||
 ||||||
 ||||||
