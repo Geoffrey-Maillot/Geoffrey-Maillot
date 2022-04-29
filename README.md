@@ -8,6 +8,9 @@ I am 34 years old, military for 11 years I decided to change my life and become 
 
 I trained as a self-taught person and then I followed an intensive 6 months training with [O'clock](https://oclock.io/) to become a [fullstack Js developer](https://oclock.io/formations/developpeur-web-fullstack-javascript)
 
+* 🌍  I'm based in France
+* ✉️  You can contact me at [geoffrey.maillot@gmail.com](mailto:geoffrey.maillot@gmail.com)
+* 🚀  I'm currently working on [Lomaco Soft & Service](http://https://lomaco.fr/)
 
 
 ### &#128433;&#65039; My skills
@@ -28,7 +31,11 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-####  &#128433;&#65039; My final project of O'clock's formation
+### &#128433;&#65039; Socials
+
+<p align="left"> <a href="https://discord.com/users/Jojobeuzasse#2305" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com//Geoffrey-Maillot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geoffrey-maillot-06a1411bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mgeoffrey974" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+###  &#128433;&#65039; My final project of O'clock's formation
   - Principal techno used : **Front** ➧ React / Redux , **Back** ➧ NodeJs / Express / PostgresQl
   
   🎥 [Presentation](https://youtu.be/XliSnSJouJs?t=3988) 
