@@ -51,3 +51,16 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 |&#128187;| [country-app](http://jojo-country-app.surge.sh/)|React / Redux / Axios / Api| 😎 | [Country App](http://jojo-country-app.surge.sh/) |😑| ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Country-App&up_color=green&up_message=online&url=http%3A%2F%2Fjojo-country-app.surge.sh%2F) | Perso |03/21|
 |&#128187;| [Gallery from Notion](https://from-notion-gallery.netlify.app/)|React / Axios / Netlify Function|[Notion](https://www.notion.so/fr-fr/product?utm_source=google&utm_campaign=16166134042&utm_medium=133365705979&utm_content=581318253588&utm_term=notion&targetid=kwd-312974742&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmRtilIdvc9nFD7iyOuFO0EeirbSdM0vvlITrewukJaV48fxkjhEqoxoCu1AQAvD_BwE)| [Repo Gallery from Notion](https://github.com/Geoffrey-Maillot/Gallery-from-Notion) |😆|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Gallery%20from%20Notion&up_color=green&up_message=online&url=https%3A%2F%2Ffrom-notion-gallery.netlify.app%2F)|Perso| 03/2022 |
 |&#128187;|[Berthe aux pâquerettes](https://berthesauxpaquerettes.netlify.app/)| React / Gatsby / scss / Axios / Netlify Function|[Strapi](https://strapi.io/) / [Snipcart](https://snipcart.com/)|[Repo Front](https://github.com/Geoffrey-Maillot/Boutique_Cindy_front)|[Repo Back](https://github.com/Geoffrey-Maillot/Boutique_Cindy_back)|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Berthe%20aux%20p%C3%A2querettes&up_color=green&up_message=online&url=https%3A%2F%2Fberthesauxpaquerettes.netlify.app%2F)|Pro|02/2022|
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com//Geoffrey-Maillot"><img src="https://github-readme-stats.vercel.app/api?username=/Geoffrey-Maillot&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="/Geoffrey-Maillot's GitHub stats" /></a>
+
+<a href="http://www.github.com//Geoffrey-Maillot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=/Geoffrey-Maillot&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com//Geoffrey-Maillot"><img src="https://activity-graph.herokuapp.com/graph?username=/Geoffrey-Maillot&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com//Geoffrey-Maillot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Geoffrey-Maillot&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
