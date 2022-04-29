@@ -36,7 +36,6 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 <p align="left"> <a href="https://discord.com/users/Jojobeuzasse#2305" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com//Geoffrey-Maillot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/geoffrey-maillot-06a1411bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mgeoffrey974" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ###  &#128433;&#65039; My final project of O'clock's formation
-  - Principal techno used : **Front** ➧ React / Redux , **Back** ➧ NodeJs / Express / PostgresQl
   
   🎥 [Presentation](https://youtu.be/XliSnSJouJs?t=3988) 
 
