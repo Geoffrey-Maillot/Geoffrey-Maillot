@@ -56,8 +56,8 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 |Projet     |Repo     |
 |-----------|---------|
-|[Challenge BenjaminCode Parallax](https://geoffrey-maillot.github.io/Challenge_BenjaminC/)| [Repo](https://github.com/Geoffrey-Maillot/Challenge_BenjaminC) |
-|[Challenge BastiUi Smiley Rate](https://github.com/Geoffrey-Maillot/Challenge-BastiUI_Smilley-rate](http://smiley-rate.surge.sh/)|[Repo](https://github.com/Geoffrey-Maillot/Challenge-BastiUI_Smilley-rate)|
+| [Challenge BenjaminCode Parallax](https://geoffrey-maillot.github.io/Challenge_BenjaminC/)| [Repo](https://github.com/Geoffrey-Maillot/Challenge_BenjaminC) |
+| [Challenge BastiUi Smiley Rate](http://smiley-rate.surge.sh/) | [Repo](https://github.com/Geoffrey-Maillot/Challenge-BastiUI_Smilley-rate)|
 
 ### Badges
 
