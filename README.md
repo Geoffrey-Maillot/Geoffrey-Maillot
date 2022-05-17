@@ -52,6 +52,14 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 |&#128187;| [Gallery from Notion](https://from-notion-gallery.netlify.app/)|React / Axios / Netlify Function|[Notion](https://www.notion.so/fr-fr/product?utm_source=google&utm_campaign=16166134042&utm_medium=133365705979&utm_content=581318253588&utm_term=notion&targetid=kwd-312974742&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmRtilIdvc9nFD7iyOuFO0EeirbSdM0vvlITrewukJaV48fxkjhEqoxoCu1AQAvD_BwE)| [Repo Gallery from Notion](https://github.com/Geoffrey-Maillot/Gallery-from-Notion) |😆|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Gallery%20from%20Notion&up_color=green&up_message=online&url=https%3A%2F%2Ffrom-notion-gallery.netlify.app%2F)|Perso| 03/2022 |
 |&#128187;|[Berthe aux pâquerettes](https://berthesauxpaquerettes.netlify.app/)| React / Gatsby / scss / Axios / Netlify Function|[Strapi](https://strapi.io/) / [Snipcart](https://snipcart.com/)|Privée🙈|Privée🙈|![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Berthe%20aux%20p%C3%A2querettes&up_color=green&up_message=online&url=https%3A%2F%2Fberthesauxpaquerettes.netlify.app%2F)|Pro|02/2022|
 
+###  &#128433;&#65039; Mini projects
+
+||Projet     |Repo     |
+|-----|-----------------|
+
+|[Challenge BenjaminCode Parallax](https://geoffrey-maillot.github.io/Challenge_BenjaminC/)| [Repo](https://github.com/Geoffrey-Maillot/Challenge_BenjaminC) |
+|[Challenge BastiUi Smiley Rate]([https://github.com/Geoffrey-Maillot/Challenge-BastiUI_Smilley-rate](http://smiley-rate.surge.sh/))|[Repo](https://github.com/Geoffrey-Maillot/Challenge-BastiUI_Smilley-rate)|
+
 ### Badges
 
 <b>My GitHub Stats</b>
