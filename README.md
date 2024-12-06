@@ -10,7 +10,7 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [geoffrey.maillot@gmail.com](mailto:geoffrey.maillot@gmail.com)
-* 🚀  I'm currently working on [Lomaco Soft & Service](http://https://lomaco.fr/)
+* 🚀  I'm currently working on [Lomaco Soft & Service](http://https://lomaco.fr/) since 2022
 
 
 ### &#128433;&#65039; My skills
