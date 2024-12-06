@@ -34,7 +34,7 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 &#128187; [O'médocs](https://o-medocs.netlify.app/)
 
-###  &#128433;&#65039; My projects
+###  &#128433;&#65039; My projects for fun
 
 ||Projet     |Technos front     |Technos Back       |Repo front      |Repo back    |Status      |Type projet        |Date|
 |-----|-----------------|:------------:|:---------------:|:---------------:|:--------------:|:----------------:|:-----------------:|:--------------:|
