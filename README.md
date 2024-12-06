@@ -36,13 +36,13 @@ I trained as a self-taught person and then I followed an intensive 6 months trai
 
 ###  &#128433;&#65039; My projects
 
-||Projet     |Technos front     |Technos Back       |Repo front      |Repo back |Type projet        |Date|  Description|
-|-----|-----------------|:------------:|:---------------:|:---------------:|:----------------:|:-----------------:|:--------------:|:--------------:|
-|&#128187;| [Boutique Audiophile](http://audiophile.surge.sh/)|React / Typescript / Recoil / styled-component|🙄|[Repo Audiophile](https://github.com/Geoffrey-Maillot/Audiophile)|😁|Perso|08/2021| My very first project after taking the O'clock training course. Objective: Integrate a Figma model |
-|&#128187;| [country-app](http://jojo-country-app.surge.sh/)|React / Redux / Axios / Api| 😎 | [Country App](http://jojo-country-app.surge.sh/) |😑|Perso |03/21| I've just discovered API! So cool! Objective : Test my first API |
-|&#128187;| [Gallery from Notion](https://from-notion-gallery.netlify.app/)|React / Axios / Netlify Function|[Notion](https://www.notion.so/fr-fr/product?utm_source=google&utm_campaign=16166134042&utm_medium=133365705979&utm_content=581318253588&utm_term=notion&targetid=kwd-312974742&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmRtilIdvc9nFD7iyOuFO0EeirbSdM0vvlITrewukJaV48fxkjhEqoxoCu1AQAvD_BwE)| [Repo Gallery from Notion](https://github.com/Geoffrey- 
-            Maillot/Gallery-from-Notion) |😆|Perso| 03/2022 | I love Notion, it's my second brain (and third, fourth, ...) and now we're using it as an API. Let's test it - Objective :  Test Notion as an API and try displaying images like [Pexel](https://www.pexels.com/) | 
-|&#128187;|[Berthe aux pâquerettes](https://berthesauxpaquerettes.netlify.app/)| React / Gatsby / scss / Axios / Netlify Function|[Strapi](https://strapi.io/) / [Snipcart](https://snipcart.com/)|Privée🙈|Privée🙈|Pro|02/2022|  |
+| 📂 Projet                      | Technos front                        | Technos back                | Repo front                                             | Repo back                | Type projet | Date     | Description                                                                                      |
+|--------------------------------|---------------------------------------|-----------------------------|-------------------------------------------------------|--------------------------|-------------|----------|--------------------------------------------------------------------------------------------------|
+| 💻 [Boutique Audiophile](http://audiophile.surge.sh/) | React / Typescript / Recoil / styled-component | 🙄                           | [Repo Audiophile](https://github.com/Geoffrey-Maillot/Audiophile) | 😁                      | Perso       | 08/2021  | My very first project after taking the O'clock training course. Objective: Integrate a Figma model. |
+| 💻 [Country App](http://jojo-country-app.surge.sh/)   | React / Redux / Axios / API                   | 😎                           | [Country App](https://github.com/Geoffrey-Maillot/Country-App) | 😑                      | Perso       | 03/2021  | I've just discovered API! So cool! Objective: Test my first API.                                  |
+| 💻 [Gallery from Notion](https://from-notion-gallery.netlify.app/) | React / Axios / Netlify Function            | [Notion](https://www.notion.so/fr-fr/product) | [Repo Gallery from Notion](https://github.com/Geoffrey-Maillot/Gallery-from-Notion) | 😆                      | Perso       | 03/2022  | I love Notion, it's my second brain. Objective: Test Notion as an API and display images like [Pexel](https://www.pexels.com/). |
+| 💻 [Berthe aux pâquerettes](https://berthesauxpaquerettes.netlify.app/) | React / Gatsby / SCSS / Axios / Netlify Function | [Strapi](https://strapi.io/) / [Snipcart](https://snipcart.com/) | Privée 🙈                                              | Privée 🙈                | Pro         | 02/2022  |                                                                                                  |
+
 
 ###  &#128433;&#65039; Mini projects for fun
 
